@@ -1,0 +1,16 @@
+[
+  {
+    "validator_name": "Validator A",
+    "stake": 1000000,
+    "commission": 7,
+    "last_vote": 222244880,
+    "credits": 120000
+  },
+  {
+    "validator_name": "Validator B",
+    "stake": 500000,
+    "commission": 10,
+    "last_vote": 222244870,
+    "credits": 115000
+  }
+]
